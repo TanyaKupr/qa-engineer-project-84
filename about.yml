@@ -1,0 +1,16 @@
+name: Tatyana Kupriyanova
+job: QA Engineer
+level: junior
+email: kupr@hexlet.io
+description: |
+  Факт про меня №1.
+  Факт про меня №2.
+  Факт про меня №3.
+  Факт про меня №4.
+  Факт про меня №5
+skills:
+  - Skills 1
+  - Skills 2
+  - Skills 3
+  - Skills 4
+  - Skills 5
