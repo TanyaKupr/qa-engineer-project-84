@@ -4,7 +4,7 @@
   requirement: |
     При использовании фильтра по категории на странице отображаются товары, соответствующие выбранной категории
   prerequisites: |
-    Открыт каталог товаров https://hexlet-products-store.vercel.app/
+    no data
   test-data: |
     no data
   steps:
@@ -18,7 +18,7 @@
   requirement: |
     При поиске товаров по ключевому слову отображаются соответствующие товары
   prerequisites: |
-    Открыт каталог товаров https://hexlet-products-store.vercel.app/
+    no data
   test-data: |
     no data
   steps:
@@ -31,7 +31,7 @@
   requirement: |
     При задавании диапазона цен отображаются соответствующие по цене товары
   prerequisites: |
-    Открыт каталог товаров https://hexlet-products-store.vercel.app/
+    no data
   test-data: |
     no data
   steps:
@@ -44,7 +44,7 @@
   requirement: |
     Просмотр товара с подробной информацией о нем
   prerequisites: |
-    Открыт каталог товаров https://hexlet-products-store.vercel.app/
+    no data
   test-data: |
     no data
   steps:
@@ -57,7 +57,7 @@
   requirement: |
     При нажатии на кнопку "Add to cart" товар добавляется в корзину
   prerequisites: |
-    Открыт каталог товаров https://hexlet-products-store.vercel.app/
+    Корзина пустая
   test-data: |
     no data
   steps:
@@ -112,7 +112,7 @@
   requirement: |
     При нажатии на кнопку "Next" происходит переход к следующей странице каталога
   prerequisites: |
-    Открыт каталог товаров https://hexlet-products-store.vercel.app/
+    no data
   test-data: |
     no data
   steps:
