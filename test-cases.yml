@@ -99,7 +99,7 @@
   requirement: |
     При нажатии на кнопку "Store" происходит переход в каталог товаров
   prerequisites: |
-  - Открыта корзина https://hexlet-products-store.vercel.app/cart 
+    Открыта корзина https://hexlet-products-store.vercel.app/cart 
   test-data: |
     no data
   steps:
